@@ -22,6 +22,8 @@
 ## 𝟬𝟮. 接口分享合集地址
 
 >* **地址**：
+>* [镜像地址](https://mirror.ghproxy.com/https://raw.githubusercontent.com/tengxing/CCTV_TVBOX/main/CCTV.txt)
+>* [镜像IPV6地址](https://mirror.ghproxy.com/https://raw.githubusercontent.com/tengxing/CCTV_TVBOX/main/CCTV-IPV6.txt)
 
 ## 使用需知
 
