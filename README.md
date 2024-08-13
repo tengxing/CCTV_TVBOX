@@ -4,7 +4,7 @@
 <h1>CCTV_TVBOX</h1>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Auth](https://img.shields.io/badge/Auth-zhoulibin-ff69b4)](https://github.com/tengxing)
+[![Auth](https://img.shields.io/badge/Auth-Terry-ff69b4)](https://github.com/tengxing)
 [![GitHub Pull Requests](https://img.shields.io/github/stars/tengxing/CCTV_TVBOX?logo=Undertale)](https://github.com/tengxing/CCTV_TVBOX/stargazers)
 [![HitCount](https://views.whatilearened.today/views/github/tengxing/CCTV_TVBOX.svg)](https://github.com/tengxing/CCTV_TVBOX)
 
