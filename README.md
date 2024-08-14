@@ -29,4 +29,4 @@
 
 >所有资源全部搜集于网络，各位有优质的直播源或接口，可以私我，我会一并加入文档中~ 如有侵权，请联系我删除~
 
-[![Star History Chart](https://api.star-history.com/svg?repos=CatBoxs/Cat_tv&type=Date)](https://star-history.com/#CatBoxs/Cat_tv&Date)# What's CCTV_TVBOX# What's CCTV_TVBOX
+[![Star History Chart](https://api.star-history.com/svg?repos=CCTV_TVBOX&type=Date)](https://star-history.com/#CatBoxs/Cat_tv&Date)# What's CCTV_TVBOX# What's CCTV_TVBOX
